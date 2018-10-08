@@ -1,0 +1,4 @@
+{
+  "term": "Gated Recurrent Unit (GRU)",
+  "definition": "are a gating mechanism in recurrent neural networks. GRUs may exhibit better performance on smaller datasets than do LSTMs. They have fewer parameters than LSTM, as they lack an output gate.\nSee https://en.wikipedia.org/wiki/Gated_recurrent_unit"
+}
