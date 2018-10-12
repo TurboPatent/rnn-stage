@@ -1,5 +1,5 @@
 {
-  "name": "rnn-template-stage",
+  "name": "rnn-stage",
   "description": "Deep Learning: Recurrent Neural Network",
   "owner": {
     "login": "TurboPatent",
@@ -58,5 +58,5 @@
       }
     ]
   },
-  "repository": "https://github.com/TurboPatent/rnn-template-stage"
+  "repository": "https://github.com/TurboPatent/rnn-stage"
 }
