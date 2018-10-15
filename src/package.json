@@ -16,9 +16,9 @@
       "glossaryCount": 5
     },
     "briefDescriptions": [
-      "<p><b>Fig. 1</b> illustrates a <span data-role=\"tag\" data-value=\"7bd5b7aa-7127-0e53-e83d-1b959bb84a2c\" id=\"id90ecd117-8ac0-ce45-66ef-f0bb736bc2cf\" data-type=\"drawingObject\">recurrent neural network 100</span> in accordance with one embodiment.</p>",
-      "<p><b>Fig. 2</b> illustrates a <span data-role=\"tag\" data-value=\"721b6bb7-1985-e6f5-1ab6-c9203634debc\" id=\"idc24af75a-39a4-84e6-e133-e571f093c1c4\" data-type=\"drawingObject\">bidirectional recurrent neural network 200</span> in accordance with one embodiment.</p>",
-      "<p><b>Fig. 3</b> illustrates a <span data-role=\"tag\" data-value=\"907af07d-0332-710b-af1c-53d685b2e5cd\" id=\"id20ce07ce-dd0e-ad48-3d97-839a32774c6b\" data-type=\"drawingObject\">long short-term memory 300</span> in accordance with one embodiment.</p>"
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"7bd5b7aa-7127-0e53-e83d-1b959bb84a2c\" id=\"id90ecd117-8ac0-ce45-66ef-f0bb736bc2cf\" data-type=\"drawingObject\">recurrent neural network 100</span> in accordance with one embodiment.</p>",
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"721b6bb7-1985-e6f5-1ab6-c9203634debc\" id=\"idc24af75a-39a4-84e6-e133-e571f093c1c4\" data-type=\"drawingObject\">bidirectional recurrent neural network 200</span> in accordance with one embodiment.</p>",
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"907af07d-0332-710b-af1c-53d685b2e5cd\" id=\"id20ce07ce-dd0e-ad48-3d97-839a32774c6b\" data-type=\"drawingObject\">long short-term memory 300</span> in accordance with one embodiment.</p>"
     ],
     "parts": [
       {
