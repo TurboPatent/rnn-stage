@@ -6,7 +6,7 @@
     "type": "organization"
   },
   "license": "MIT",
-  "isPrivate": false,
+  "private": false,
   "details": {
     "counts": {
       "termCount": 0,
