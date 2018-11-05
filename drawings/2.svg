@@ -1,24 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="826" height="493" viewBox="128 17 826 493 "><g><g transform="translate(603.3,17.9)"><polygon fill="#000000" points="0,0 4.2,11.2 11.8,2" transform="translate(-5.9,27.3)"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="826" height="361" viewBox="134 17 826 361 "><g><g transform="translate(603.3,17.9)"><polygon fill="#000000" points="0,0 4.2,11.2 11.8,2" transform="translate(-5.9,27.3)"/>
 <rect fill="none" width="1" height="1" transform="translate(33.3,-0.5)"/>
 <g><g>
 <rect x="0" y="0" width="28.3" height="28.3" opacity="0"/>
 <path fill="none" stroke="#000000" stroke-width="1" d="M28.3,0C16.7,2.2,7,13.4,0,28.3"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0"/><path stroke="#000000" fill="none"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(0,0)"/><rect stroke-width="0" fill="none" width="1" height="1" transform="translate(33.3,-0.5)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" text-decoration="none" transform="translate(33.3,-0.5)"><tspan x="0" y="6.8">200</tspan></text><path stroke="#000000" fill="none" transform="translate(33.3,-0.5)"/></g><g transform="translate(128.8,467.8)"><g><g>
-<path d="M56.7,0H0v24.2h56.7V0L56.7,0z" fill="none" stroke="none" stroke-dasharray="none"/>
-<rect x="2.5" y="1.1" width="51.7" height="22" fill="none"/>
-<circle fill="none" cx="28.3" cy="0" r="0.1"/>
-<circle fill="none" cx="42.4" cy="0" r="0.1"/>
-<circle fill="none" cx="56.7" cy="6.1" r="0.1"/>
-<circle fill="none" cx="56.7" cy="12.1" r="0.1"/>
-<circle fill="none" cx="56.7" cy="18.1" r="0.1"/>
-<circle fill="none" cx="42.4" cy="24.2" r="0.1"/>
-<circle fill="none" cx="28.3" cy="24.2" r="0.1"/>
-<circle fill="none" cx="14.3" cy="24.2" r="0.1"/>
-<circle fill="none" cx="0" cy="18.1" r="0.1"/>
-<circle fill="none" cx="0" cy="12.1" r="0.1"/>
-<circle fill="none" cx="0" cy="6.1" r="0.1"/>
-<circle fill="none" cx="14.3" cy="0" r="0.1"/>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(56.6,12)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(56.6,12)"/><rect stroke-width="0" fill="none" width="51.7" height="22" transform="translate(2.5,1.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(2.5,1.1)" text-anchor="middle"><tspan x="25.9" y="17.3">Yo</tspan></text><path stroke="#000000" fill="none" transform="translate(2.5,1.1)" d="M 0 0"/></g><g transform="translate(249,180)"><g><g>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0"/><path stroke="#000000" fill="none"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(0,0)"/><rect stroke-width="0" fill="none" width="1" height="1" transform="translate(33.3,-0.5)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" text-decoration="none" transform="translate(33.3,-0.5)"><tspan x="0" y="6.8">200</tspan></text><path stroke="#000000" fill="none" transform="translate(33.3,-0.5)"/></g><g transform="translate(249,180)"><g><g>
 <path d="M42,0H0v48h42V0L42,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
 <rect x="1.8" y="2.2" width="38.3" height="43.6" fill="none"/>
 <circle fill="none" cx="21" cy="0" r="0.1"/>

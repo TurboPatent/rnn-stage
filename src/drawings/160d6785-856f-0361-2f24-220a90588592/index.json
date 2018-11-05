@@ -30,47 +30,6 @@
       },
       {
         "type": "tp.Element",
-        "shape": "textboxLabel",
-        "labelVAlign": "center",
-        "isNumbered": false,
-        "outsideNumbers": false,
-        "displayCase": "astyped",
-        "name": "",
-        "position": {
-          "x": 128.8187255859375,
-          "y": 467.82501220703125
-        },
-        "size": {
-          "width": 56.692909240722656,
-          "height": 24.207881644066376
-        },
-        "angle": 0,
-        "label": "<p>Yo</p>",
-        "strokeStyle": "none",
-        "hasName": false,
-        "labelPosition": "internal",
-        "numberPosition": "position4",
-        "id": "745de277-090b-416a-8c94-3bb46eb407bf",
-        "z": 5,
-        "labelLayout": {
-          "labelBoxWidth": 51.73761749267578,
-          "fullString": "Yo",
-          "endPad": 0,
-          "lines": [
-            {
-              "text": "Yo",
-              "width": 13.065637588500977,
-              "x": 19.335989952087402,
-              "y": 0.49998029632568475
-            }
-          ],
-          "textWidth": 13.065637588500977,
-          "textHeight": 21.000037499999998
-        },
-        "objectID": "2bb27e11-1374-9ec4-571b-d18b986652cf"
-      },
-      {
-        "type": "tp.Element",
         "shape": "rectangle",
         "labelVAlign": "center",
         "isNumbered": false,
@@ -94,14 +53,14 @@
         "id": "f38b396b-c3cf-4771-a83a-64b9313a1014",
         "z": 10,
         "labelLayout": {
-          "labelBoxWidth": 38.328956604003906,
+          "labelBoxWidth": 38.32895278930664,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 19.164478302001953,
+              "x": 19.16447639465332,
               "y": 11.311058367919923
             }
           ],
@@ -136,14 +95,14 @@
         "id": "b4eb26c6-8e2e-ff28-054d-7256d7998b08",
         "z": 11,
         "labelLayout": {
-          "labelBoxWidth": 38.328956604003906,
+          "labelBoxWidth": 38.32895278930664,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 19.164478302001953,
+              "x": 19.16447639465332,
               "y": 11.311058367919923
             }
           ],
@@ -219,14 +178,14 @@
         "id": "4c8076ac-4929-7697-4d0f-c8c4e435fff5",
         "z": 12,
         "labelLayout": {
-          "labelBoxWidth": 38.328956604003906,
+          "labelBoxWidth": 38.32895278930664,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 19.164478302001953,
+              "x": 19.16447639465332,
               "y": 11.311058367919923
             }
           ],
@@ -302,14 +261,14 @@
         "id": "4af023e0-44fa-ccc8-4168-f201511a1bef",
         "z": 13,
         "labelLayout": {
-          "labelBoxWidth": 38.328956604003906,
+          "labelBoxWidth": 38.32895278930664,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 19.164478302001953,
+              "x": 19.16447639465332,
               "y": 11.311058367919923
             }
           ],
@@ -344,14 +303,14 @@
         "id": "4acaa8c0-3ad6-a2ec-c571-0cf62ebb0088",
         "z": 14,
         "labelLayout": {
-          "labelBoxWidth": 38.328956604003906,
+          "labelBoxWidth": 38.32895278930664,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 19.164478302001953,
+              "x": 19.16447639465332,
               "y": 11.311058367919923
             }
           ],
@@ -386,14 +345,14 @@
         "id": "844efac5-89bd-21d5-0049-561f3ab9b625",
         "z": 15,
         "labelLayout": {
-          "labelBoxWidth": 38.328956604003906,
+          "labelBoxWidth": 38.32895278930664,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 19.164478302001953,
+              "x": 19.16447639465332,
               "y": 11.311058367919923
             }
           ],
@@ -428,14 +387,14 @@
         "id": "7058e4d4-4133-ed0f-a132-15fae6670a2a",
         "z": 16,
         "labelLayout": {
-          "labelBoxWidth": 38.328956604003906,
+          "labelBoxWidth": 38.32895278930664,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 19.164478302001953,
+              "x": 19.16447639465332,
               "y": 11.311058367919923
             }
           ],
@@ -470,14 +429,14 @@
         "id": "19acfffa-ae6c-9427-8058-2cc4f5d79d9f",
         "z": 17,
         "labelLayout": {
-          "labelBoxWidth": 38.328956604003906,
+          "labelBoxWidth": 38.32895278930664,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 19.164478302001953,
+              "x": 19.16447639465332,
               "y": 11.311058367919923
             }
           ],
@@ -512,15 +471,15 @@
         "id": "a40d93fd-dc49-4ead-8a1b-13ee1edb9820",
         "z": 18,
         "labelLayout": {
-          "labelBoxWidth": 35.43310546875,
+          "labelBoxWidth": 35.433109283447266,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 17.716552734375,
-              "y": -0.43038049774169806
+              "x": 17.716554641723633,
+              "y": -0.43038145141601447
             }
           ],
           "textWidth": 0,
@@ -554,15 +513,15 @@
         "id": "58352202-a06c-db82-59ff-eaf7c156e54b",
         "z": 19,
         "labelLayout": {
-          "labelBoxWidth": 35.43310546875,
+          "labelBoxWidth": 35.433109283447266,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 17.716552734375,
-              "y": -0.43038049774169806
+              "x": 17.716554641723633,
+              "y": -0.43038145141601447
             }
           ],
           "textWidth": 0,
@@ -596,15 +555,15 @@
         "id": "ede11d6f-f7ae-ef0c-a326-5f47cccee7df",
         "z": 19,
         "labelLayout": {
-          "labelBoxWidth": 35.43310546875,
+          "labelBoxWidth": 35.433109283447266,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 17.716552734375,
-              "y": -0.43038049774169806
+              "x": 17.716554641723633,
+              "y": -0.43038145141601447
             }
           ],
           "textWidth": 0,
@@ -638,15 +597,15 @@
         "id": "30f33972-9ca1-3ad7-32b0-5eedf1681428",
         "z": 20,
         "labelLayout": {
-          "labelBoxWidth": 35.43310546875,
+          "labelBoxWidth": 35.433109283447266,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 17.716552734375,
-              "y": -0.43038049774169806
+              "x": 17.716554641723633,
+              "y": -0.43038145141601447
             }
           ],
           "textWidth": 0,
@@ -680,15 +639,15 @@
         "id": "7131c6c4-3892-3332-8bf2-59ea40851b70",
         "z": 20,
         "labelLayout": {
-          "labelBoxWidth": 35.43310546875,
+          "labelBoxWidth": 35.433109283447266,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 17.716552734375,
-              "y": -0.43038049774169806
+              "x": 17.716554641723633,
+              "y": -0.43038145141601447
             }
           ],
           "textWidth": 0,
@@ -722,15 +681,15 @@
         "id": "c5c85966-ba22-ff20-b25b-f8c642bcc37a",
         "z": 21,
         "labelLayout": {
-          "labelBoxWidth": 35.43310546875,
+          "labelBoxWidth": 35.433109283447266,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 17.716552734375,
-              "y": -0.43038049774169806
+              "x": 17.716554641723633,
+              "y": -0.43038145141601447
             }
           ],
           "textWidth": 0,
@@ -764,15 +723,15 @@
         "id": "362e72ac-bd79-6be1-57fd-670ba273b31c",
         "z": 21,
         "labelLayout": {
-          "labelBoxWidth": 35.43310546875,
+          "labelBoxWidth": 35.433109283447266,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 17.716552734375,
-              "y": -0.43038049774169806
+              "x": 17.716554641723633,
+              "y": -0.43038145141601447
             }
           ],
           "textWidth": 0,
@@ -806,15 +765,15 @@
         "id": "556e2e69-26dd-c9b7-dc7a-efeb243548b9",
         "z": 22,
         "labelLayout": {
-          "labelBoxWidth": 35.43310546875,
+          "labelBoxWidth": 35.433109283447266,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 17.716552734375,
-              "y": -0.43038049774169806
+              "x": 17.716554641723633,
+              "y": -0.43038145141601447
             }
           ],
           "textWidth": 0,
@@ -848,15 +807,15 @@
         "id": "e50c9c28-4968-54c9-4cb9-7a6078f5c053",
         "z": 23,
         "labelLayout": {
-          "labelBoxWidth": 35.43310546875,
+          "labelBoxWidth": 35.433109283447266,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 17.716552734375,
-              "y": -0.43038049774169806
+              "x": 17.716554641723633,
+              "y": -0.43038145141601447
             }
           ],
           "textWidth": 0,
@@ -890,15 +849,15 @@
         "id": "0585ae53-afb1-e77c-22d9-656d852f2a4b",
         "z": 23,
         "labelLayout": {
-          "labelBoxWidth": 35.43310546875,
+          "labelBoxWidth": 35.433109283447266,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 17.716552734375,
-              "y": -0.43038049774169806
+              "x": 17.716554641723633,
+              "y": -0.43038145141601447
             }
           ],
           "textWidth": 0,
@@ -932,15 +891,15 @@
         "id": "2a52aa6b-f960-5806-bc29-28b6f72b3fe2",
         "z": 24,
         "labelLayout": {
-          "labelBoxWidth": 35.43310546875,
+          "labelBoxWidth": 35.433109283447266,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 17.716552734375,
-              "y": -0.43038049774169806
+              "x": 17.716554641723633,
+              "y": -0.43038145141601447
             }
           ],
           "textWidth": 0,
@@ -974,15 +933,15 @@
         "id": "aad6cff3-85fb-79eb-f724-d99dea346633",
         "z": 24,
         "labelLayout": {
-          "labelBoxWidth": 35.43310546875,
+          "labelBoxWidth": 35.433109283447266,
           "fullString": " ",
           "endPad": 0,
           "lines": [
             {
               "text": " ",
               "width": 0,
-              "x": 17.716552734375,
-              "y": -0.43038049774169806
+              "x": 17.716554641723633,
+              "y": -0.43038145141601447
             }
           ],
           "textWidth": 0,
